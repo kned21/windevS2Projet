@@ -1,0 +1,5 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Eleve		TAR	487	nouvelle taille enregistrement : 487
+Eleve	Genre	TAB-	1	la rubrique Genre n'est plus un tableau
+Eleve	Genre	CNW	Caractère$Entier non signé sur 1 octet	la rubrique Genre a pour nouveau type Caractère
+Eleve	cycle	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique cycle a pour nouveau type Chaîne

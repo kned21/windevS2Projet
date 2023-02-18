@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Eleve		TAR	345	nouvelle taille enregistrement : 345
+Eleve	Photos	RUB+		Photos est une nouvelle rubrique

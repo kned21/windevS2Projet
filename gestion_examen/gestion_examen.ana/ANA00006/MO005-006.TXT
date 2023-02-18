@@ -1,0 +1,5 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Eleve		TAR	439	nouvelle taille enregistrement : 439
+Eleve		IDE-*		fichier sans identifiant
+Eleve	Matricule	TAI-	40	la rubrique Matricule a comme nouvelle taille 11 au lieu de 51
+Eleve	IDEleve	RUB-		la clé IDEleve est supprimée
